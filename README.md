@@ -1,0 +1,2 @@
+# google-books
+A wonderfuk react app that allows you to travel to the edge of the universe on the back of a dragon and conquer the seven kingdoms only to be killed by some dude named john who you previously slept with a couple times, only to find out he was also your nephew. Yea it does all that. And you can save the books written about your inevitable incestial doom on this app using react and google. 
