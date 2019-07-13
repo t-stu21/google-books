@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e4/Interior_view_of_Stockholm_Public_Library.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    padding: 0rem 0rem;
+  }
